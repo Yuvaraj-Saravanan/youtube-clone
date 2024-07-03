@@ -13,8 +13,8 @@ function renderYoutube(){
   )
 }
 
-function renderSupport(){q
-  
+function renderSupport(){
+
   ReactDOM.createRoot(document.getElementById('root')).render(
     <div className="compatible">
       <img src={sorry} />
