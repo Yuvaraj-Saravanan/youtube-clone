@@ -1,0 +1,20 @@
+*{
+    font-family: poppins;
+}
+.compatible{
+    display:grid;
+    place-content:center;
+    height:100vh;
+    width:100vw;
+    background:linear-gradient(180deg, rgba(249,4,40,1) 0%, rgba(240,38,9,1) 35%, rgba(243,250,251,1) 100%);
+}
+.compatible{
+    background-color:black;
+}
+.compatible img{
+    height: 200px;
+    width:300px;
+}
+.compatible h4{
+    font-weight: 400;
+}
